@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/santa-numba/src",
+    "${workspaceFolder}/santa-numba"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/santa-numba/src",
+    "${workspaceFolder}/santa-numba"
+  ]
+}
